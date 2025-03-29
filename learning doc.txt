@@ -1,0 +1,7 @@
+package is a collection of go files that share some functionality.
+ there are two types of packages:
+
+ executable  - generates a file that ca n run
+ Reusable - code used as a helper. Good places to keep reusable logic.
+ we can only use the word 'main' for the package that is executable in our project
+this executable package must have a function 'main' in the file
